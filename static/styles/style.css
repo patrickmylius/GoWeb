@@ -28,6 +28,7 @@ footer {
     font-style: italic;
     font-family: "Roboto Thin";
 }
+
 .header2 {
     text-align: center;
     background-color: #000000;
@@ -42,6 +43,40 @@ footer {
     position: relative;
     text-align: center;
     color: #ffffff;
+}
+
+.containerPictures {
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+}
+
+.picLeft {
+    color: #f5f5f5;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-family: "Roboto Thin";
+}
+.picMid {
+    color: #f5f5f5;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-family: "Roboto Thin";
+}
+.picRight{
+    color: #f5f5f5;
+    position: absolute;
+    top: 25%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-family: "Roboto Thin";
 }
 
 .top {

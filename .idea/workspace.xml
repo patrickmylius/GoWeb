@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8761550f-e17a-44cb-adaf-eb554e6a0621" name="Default Changelist" comment="Finally got connection to localhost: 8081&#10;&#10;Solved with stackOverFlow, the reason for this, was due to wrong folder structure." />
+    <list default="true" id="8761550f-e17a-44cb-adaf-eb554e6a0621" name="Default Changelist" comment="Removed src folder, with secondary idea folder. not used. Cleared structure. Website running on localhost: 8081">
+      <change afterPath="$PROJECT_DIR$/static/codingExercises.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/gamedevelopment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/GameMenu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/MainMenu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/workouts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/placeHolder.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/artworks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/videos.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +59,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Patrick\go\src\GoWeb\static\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Patrick\go\src\GoWeb" />
       <recent name="C:\Users\Patrick\go\src\GoWeb\src" />
@@ -125,7 +139,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finally got connection to localhost: 8081&#10;&#10;Solved with stackOverFlow, the reason for this, was due to wrong folder structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finally got connection to localhost: 8081&#10;&#10;Solved with stackOverFlow, the reason for this, was due to wrong folder structure." />
+    <MESSAGE value="Removed src folder, with secondary idea folder. not used. Cleared structure. Website running on localhost: 8081" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed src folder, with secondary idea folder. not used. Cleared structure. Website running on localhost: 8081" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601019184739">
@@ -144,30 +159,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="805" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600982092384" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1601023510150">
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1601028143204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600981672450" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601023510150" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1601023510150">
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601028143204" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1601028143204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600981672449" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601023510150" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1601023510150">
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601028143204" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1601028143204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600981672449" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601023510150" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1601023510150">
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601028143204" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1601028143204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600981672449" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601023510150" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601023660041">
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601028143204" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601024088986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600982130480" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601023660041" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601024088986" />
   </component>
 </project>
